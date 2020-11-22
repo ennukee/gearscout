@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gearscout/static/css/main.aedf7eb8.chunk.css",
-    "main.js": "/gearscout/static/js/main.af5e515e.chunk.js",
-    "main.js.map": "/gearscout/static/js/main.af5e515e.chunk.js.map",
+    "main.js": "/gearscout/static/js/main.ebfa02dd.chunk.js",
+    "main.js.map": "/gearscout/static/js/main.ebfa02dd.chunk.js.map",
     "runtime-main.js": "/gearscout/static/js/runtime-main.b4fa0c7e.js",
     "runtime-main.js.map": "/gearscout/static/js/runtime-main.b4fa0c7e.js.map",
     "static/js/2.c56c3dbb.chunk.js": "/gearscout/static/js/2.c56c3dbb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b4fa0c7e.js",
     "static/js/2.c56c3dbb.chunk.js",
     "static/css/main.aedf7eb8.chunk.css",
-    "static/js/main.af5e515e.chunk.js"
+    "static/js/main.ebfa02dd.chunk.js"
   ]
 }
