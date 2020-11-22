@@ -35,3 +35,9 @@
   background-color: #ccc;
   margin-top: 10px;
 }
+
+.changelog-link {
+  text-decoration: none;
+  color: #bbf;
+  font-style: italic;
+}

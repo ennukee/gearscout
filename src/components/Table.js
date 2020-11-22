@@ -16,10 +16,11 @@ const columns = [
     { field: 'boss', headerName: 'Boss', width: 250},
 ]
 
-export default function Table({ data, primary, secondaryOne, secondaryTwo }) {
+export default function Table({ data, primary, armorType, secondaryOne, secondaryTwo }) {
     const filteredData = data
         .filter(loot => 
-            loot.primaryStat.includes(primary) &&
+            (loot.primaryStat.includes(primary) || loot.primaryStat.includes("NA")) &&
+            (loot.armorType === armorType || !['Cloth', 'Leather', 'Mail', 'Plate'].includes(loot.armorType)) &&
             (secondaryOne === "Any" || loot.secondaryOne === secondaryOne) &&
             (secondaryTwo === "Any" || loot.secondaryTwo === secondaryTwo) 
         )

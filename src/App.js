@@ -22,11 +22,16 @@ const useStyles = makeStyles((theme) => ({
 function App() {
   const classes = useStyles()
   const [ primary, setPrimary ] = useState('Intellect')
+  const [ armorType, setArmorType ] = useState('Cloth')
   const [ statPrioOne, setStatPrioOne ] = useState('Any')
   const [ statPrioTwo, setStatPrioTwo ] = useState('Any')
 
   const handlePrimaryChange = (e) => {
     setPrimary(e.target.value)
+  }
+
+  const handleArmorTypeChange = (e) => {
+    setArmorType(e.target.value)
   }
 
   const handleStatOneChange = (e) => {
@@ -41,7 +46,7 @@ function App() {
     <div className="main">
       <div id="header">
         <div id="title">Shadowlands Gearscout</div>
-        <div id="version">version 0.1.0 (last updated 11/22/2020)</div>
+        <div id="version">version 0.2.1 <a className="changelog-link" href="https://github.com/ennukee/gearscout/blob/master/changelog.md">(last updated 11/22/2020)</a></div>
         <div id="controls">
           <FormControl className={classes.formControl}>
             <InputLabel id="primary-label">Primary Stat</InputLabel>
@@ -53,6 +58,19 @@ function App() {
               <MenuItem value="Intellect">Intellect</MenuItem>
               <MenuItem value="Strength">Strength</MenuItem>
               <MenuItem value="Agility">Agility</MenuItem>
+            </Select>
+          </FormControl>
+          <FormControl className={classes.formControl}>
+            <InputLabel id="armor-type-label">Primary Stat</InputLabel>
+            <Select
+              labelId="armor-type-label"
+              value={armorType}
+              onChange={handleArmorTypeChange}
+            >
+              <MenuItem value="Cloth">Cloth</MenuItem>
+              <MenuItem value="Leather">Leather</MenuItem>
+              <MenuItem value="Mail">Mail</MenuItem>
+              <MenuItem value="Plate">Plate</MenuItem>
             </Select>
           </FormControl>
           <FormControl className={classes.formControl}>
@@ -88,6 +106,7 @@ function App() {
           <Table
             data={lootData}
             primary={primary}
+            armorType={armorType}
             secondaryOne={statPrioOne}
             secondaryTwo={statPrioTwo}
           />
