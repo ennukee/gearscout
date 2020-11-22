@@ -1,0 +1,550 @@
+Dungeon	Boss	Type	Slot	BaseIlvl	Name	Main Stat	Secondary Stat 1	Secondary Stat 1 Value	Secondary stat 2	Secondary Stat 2 Value	Active/Passive	SourceInst	Role
+Sanguine Depths	Kryxis the Voracious	Mail	Wrist	157	Shackles of Alluring Vitality	Agility/Intellect	Critical Strike	31	Versatility	26		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Kryxis the Voracious	Plate	Feet	157	Sabatons of the Rushing Juggernaut	Strength/Intellect	Versatility	47	Critical Strike	30		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Kryxis the Voracious	Warglaive	One-Hand	157	Hungering Devourer's Twinblade	Agility	Critical Strike	30	Versatility	20		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Kryxis the Voracious	Leather	Chest	157	Anima-Splattered Hide	Agility/Intellect	Versatility	56	Critical Strike	45		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Kryxis the Voracious	Dagger	One-Hand	157	Voracious Gorger Spine	Agility	Versatility	26	Haste	17		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Kryxis the Voracious	Ring	Finger	157	 Entwined Gorger Tendril	NA	Critical Strike	70	Versatility	55		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Kryxis the Voracious	Cloth	Wrist	157	Essence Surgers Cuffs	Intellect	Versatility	33	Mastery	25		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Executor Tarvold	Mail	Waist	157	Executor's Prideful Girdle	Agility/Intellect	Haste	47	Versatility	30		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Executor Tarvold	Plate	Wrist	157	Vambraces of the Depraved Warden	Strength/Intellect	Haste	34	Versatility	23		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Executor Tarvold	Cloak	Cloak	157	Cloak of Enveloping Manifestations	Agility/Strength/Intellect	Critical Strike	34	Mastery	22		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Executor Tarvold	Cloth	Shoulders	157	Castigator's Mantle	Intellect	Mastery	42	Versatility	33		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Executor Tarvold	Mace	One-Hand	157	Sinsmasher	Strength	Mastery	30	Critical Strike	20		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Executor Tarvold	Leather	Feet	157	Sinsoaked Waders	Agility/Intellect	Critical Strike	41	Haste	34		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Executor Tarvold	Trinket	Trinket	157	Overflowing Anima Prison	Intellect	Use				Place on the ground for 15 sec, increasing the Intellect of up to 5 allies within 8 yds by 57. Using a covenant ability can extend it out to a maximum of 25 sec. (2 Min, 30 Sec Cooldown)	Dungeon	Dps/Heal
+Sanguine Depths	Grand Proctor Beryllia	Trinket	Trinket	157	Lingering Sunmote	Intellect	Use				Create a patch of light at the target location for 25 sec. Allies within the light gain 1276 absorb every 5 sec while it persists.	Dungeon	Heal
+Sanguine Depths	Grand Proctor Beryllia	Plate	Waist	157	Waistguard of Expurged Anguish	Strength/Intellect	Critical Strike	47	Versatility	30		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Grand Proctor Beryllia	Mail	Hands	157	Iron Spiked Handgrips	Agility/Intellect	Mastery	41	Critical Strike	34		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Grand Proctor Beryllia	Leather	Wrist	157	Radiant Light Binders	Agility/Intellect	Versatility	31	Mastery	25		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Grand Proctor Beryllia	Cloth	Legs	157	Beryllia's Leggings of Endless Torment	Intellect	Critical Strike	58	Mastery	44		Dungeon	Dps/Tank/Heal
+Sanguine Depths	Grand Proctor Beryllia	Off-Hand	Off-Hand	157	Vessel of Shining Radiance	Intellect	Critical Strike	30	Mastery	20		Dungeon	Dps/Tank/Heal
+Sanguine Depths	General Kaal	Plate	Hands	157	Guilewind Stone Talons	Strength/Intellect	Critical Strike	41	Haste	34		Dungeon	Dps/Tank/Heal
+Sanguine Depths	General Kaal	Mail	Legs	157	Wind Dancer's Legguards	Agility/Intellect	Haste	56	Mastery	45		Dungeon	Dps/Tank/Heal
+Sanguine Depths	General Kaal	Trinket	Trinket	157	Bladedancer's Armor Kit	Agility/Strength	Use				Increase your armor by 102 and attackers take 65 physical damage when they strike you with melee attacks for 2 min or until you are dealt 10971 physical damage. (5 Min Cooldown)	Dungeon	Tank
+Sanguine Depths	General Kaal	Axe	One-Hand	157	Stone General's Edge	Agility	Haste	31	Versatility	18		Dungeon	Dps/Tank/Heal
+Sanguine Depths	General Kaal	Leather	Shoulders	157	Wicked Bladewing Pauldrons	Agility/Intellect	Haste	44	Mastery	33		Dungeon	Dps/Tank/Heal
+Sanguine Depths	General Kaal	Cloth	Head	157	Cowl of the Devoted General	Intellect	Mastery	60	Haste	42		Dungeon	Dps/Tank/Heal
+Sanguine Depths	General Kaal	Trinket	Trinket	157	Decanter of Anima-Charged Winds	Agility/Strength	Equip					Dungeon	Dps
+Sanguine Depths	General Kaal	Sword	One-Hand	157	Kaal's Gloomblade	Intellect	Versatility	30	Mastery	20		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Blightbone	Ring	Finger	157	Stitchflesh's Misplaced Signet	NA	Haste	75	Versatility	49		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Blightbone	Gun	Ranged	157	Blight Belcher	Agility	Versatility	58	Mastery	44		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Blightbone	Mace	One-Hand	157	Engorged Worm Smasher	Strength	Haste	30	Versatility	20		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Blightbone	Plate	Waist	157	Fused Bone Greatbelt	Strength/Intellect	Mastery	45	Versatility	30		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Blightbone	Leather	Feet	157	Viscera-Stitched Footpads	Agility/Intellect	Versatility	41	Critical Strike	34		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Blightbone	Cloth	Head	157	Abominable Visage	Intellect	Critical Strike	56	Mastery	45		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Blightbone	Mail	Shoulders	157	Blightbone Spaulders	Agility/Intellect	Versatility	47	Mastery	30		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Amarth, The Harvester	Sword	One-Hand	157	Amarth's Spellblade	Intellect	Critical Strike	30	Haste	20		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Amarth, The Harvester	Plate	Legs	157	Legplates of Unholy Frenzy	Strength/Intellect	Critical Strike	61	Mastery	41		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Amarth, The Harvester	Cloth	Shoulders	157	Reanimator's Mantle	Intellect	Haste	42	Mastery	33		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Amarth, The Harvester	Trinket	Trinket	157	Bottled Chimera Toxin	Agility	Use				Use: Coat your weapons in Flayedwing Toxin for 1 hour, giving your attacks a high chance to deal 627 Nature damage over 6 sec.	Dungeon	Dps
+Necrotic Wake	Amarth, The Harvester	Mail	Head	157	Rattling Deadeye Hood	Agility/Intellect	Critical Strike	63	Mastery	39		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Amarth, The Harvester	Leather	Wrist	157	Risen Monstrosity Cuffs	Agility/Intellect	Haste	31	Versatility	26		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Surgeon Stitchflesh	Trinket	Trinket	157	Spare Meat Hook	Strength	Use				Use: Hook an enemy who is within 8 yds, causing them to bleed for 423 Physical damage every 1 sec and reducing their movement speed by 50%. Lasts 10 sec, or until they move more than 16 yds away from you. (2 Min Cooldown)	Dungeon	Dps/Tank
+Necrotic Wake	Surgeon Stitchflesh	Shield	Off-Hand	157	Encrusted Canopic Lid	Strength/Intellect	Critical Strike	30	Versatility	20		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Surgeon Stitchflesh	Plate	Shoulders	157	Vile Butcher's Pauldrons	Strength/Intellect	Critical Strike	47	Versatility	30		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Surgeon Stitchflesh	Leather	Chest	157	Freshly Embalmed Jerkin	Agility/Intellect	Mastery	56	Critical Strike	45		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Surgeon Stitchflesh	Cloth	Hands	157	Gory Surgeon's Gloves	Intellect	Mastery	44	Critical Strike	33		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Surgeon Stitchflesh	Trinket	Trinket	157	Satchel of Misbegotten Minions	Intellect	Equip				Equip: Your damaging spells have a chance to draw a minion from the satchel, sending it running at your target where it explodes, dealing 1145 Shadow damage split between all nearby enemies.	Dungeon	Dps
+Necrotic Wake	Surgeon Stitchflesh	Mail	Feet	157	Striders of Restless Malice	Agility/Intellect	Versatility	41	Critical Strike	34		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Surgeon Stitchflesh	Dagger	One-Hand	157	Stitchflesh's Scalpel	Agility	Mastery	30	Critical Strike	20		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Nalthor the Rimebinder	Sword	Two-Hand	157	Rimebinder's Runeblade	Strength	Haste	60	Versatility	42		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Nalthor the Rimebinder	Trinket	Trinket	157	Siphoning Phylactery Shard	Intellect	Use				Use: Sacrifice 1247 health to charge the phylactery for 30 sec. Healing a target below 30% health expends the phylactery's charge to amplify your spell, restoring 2494 additional health to the target.	Dungeon	Heal
+Necrotic Wake	Nalthor the Rimebinder	Plate	Head	157	Dark Frost Helmet	Strength/Intellect	Versatility	61	Haste	41		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Nalthor the Rimebinder	Ring	Finger	157	Ritual Commander's Ring	NA	Versatility	73	Critical Strike	52		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Nalthor the Rimebinder	Leather	Shoulders	157	Undying Chill Shoulderpads	Agility/Intellect	Mastery	41	Versatility	34		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Nalthor the Rimebinder	Mail	Legs	157	Lichbone Legguards	Agility/Intellect	Versatility	63	Haste	39		Dungeon	Dps/Tank/Heal
+Necrotic Wake	Nalthor the Rimebinder	Cloth	Wrist	157	Necropolis Lord's Shackles	Intellect	Mastery	31	Versatility	25		Dungeon	Dps/Tank/Heal
+Plaguefall	Globgrog	Trinket	Trinket	157	Slimy Consumptive Organ	Stamina	Equip				Equip: Taking damage has a high chance to grant you Gluttonous, stacking up to 9 times. Use: Spew out a Slimey Morsel for every stack of Gluttonous. The Morsels immediately attempt to return to you, each healing you for 447. (20 Sec Cooldown)	Dungeon	Tank
+Plaguefall	Globgrog	Mail	Legs	157	Blightborne Chain Legguards	Agility/Intellect	Critical Strike	55	Mastery	45		Dungeon	Dps/Tank/Heal
+Plaguefall	Globgrog	Leather	Head	157	Disgested Interrogator's Gaze	Agility/Intellect	Mastery	56	Haste	45		Dungeon	Dps/Tank/Heal
+Plaguefall	Globgrog	Plate	Head	157	Plague Handler's Greathelm	Strength/Intellect	Critical Strike	63	Mastery	39		Dungeon	Dps/Tank/Heal
+Plaguefall	Globgrog	Dagger	One-Hand	157	Surgical Pustule Extractor	Intellect	Critical Strike	30	Mastery	20		Dungeon	Dps/Tank/Heal
+Plaguefall	Globgrog	Cloth	Feet	157	Stradama's Misplaced Slippers	Intellect	Mastery	44	Critical Strike	33		Dungeon	Dps/Tank/Heal
+Plaguefall	Doctor Ickus	Cloth	Head	157	Depraved Physician's Mask	Intellect	Haste	60	Mastery	42		Dungeon	Dps/Tank/Heal
+Plaguefall	Doctor Ickus	Trinket	Trinket	157	Phial of Putrefaction	Agility/Strength	Equip				Equip: Every 5 sec, your next melee ability applies Liquefying Ooze, dealing [54 * (10) * (1 + Versatility)] Nature damage over 30 sec.	Dungeon	Dps/Tank
+Plaguefall	Doctor Ickus	Mace	One-Hand	157	Sophisticated Bonecracker	Strength	Versatility	31	Haste	18		Dungeon	Dps/Tank/Heal
+Plaguefall	Doctor Ickus	Mail	Wrist	157	Tortured Assistant's Bindings	Agility/Intellect	Versatility	31	Mastery	25		Dungeon	Dps/Tank/Heal
+Plaguefall	Doctor Ickus	Leather	Shoulders	157	Malodorous Gristle-Sown Spaulders	Agility/Intellect	Versatility	44	Mastery	33		Dungeon	Dps/Tank/Heal
+Plaguefall	Doctor Ickus	Plate	Hands	157	Fleshfused Crushers	Strength/Intellect	Versatility	41	Haste	34		Dungeon	Dps/Tank/Heal
+Plaguefall	Domina Venomblade	Polearm	Two-Hand	157	Halberd of the Aranakk	Agility	Haste	61	Critical Strike	41		Dungeon	Dps/Tank/Heal
+Plaguefall	Domina Venomblade	Dagger	One-Hand	157	Domina's Oozing Shiv	Agility	Critical Strike	31	Mastery	18		Dungeon	Dps/Tank/Heal
+Plaguefall	Domina Venomblade	Mail	Waist	157	Belt of Wretched Manipulations	Agility/Intellect	Critical Strike	42	Versatility	33		Dungeon	Dps/Tank/Heal
+Plaguefall	Domina Venomblade	Cloth	Hands	157	Mitts of Flawless Duplication	Intellect	Versatility	44	Haste	31		Dungeon	Dps/Tank/Heal
+Plaguefall	Domina Venomblade	Leather	Wrist	157	Fastened Venombarb Binds	Agility/Intellect	Mastery	33	Versatility	25		Dungeon	Dps/Tank/Heal
+Plaguefall	Domina Venomblade	Plate	Waist	157	Scarred Bloodbound Girdle	Strength/Intellect	Versatility	41	Mastery	34		Dungeon	Dps/Tank/Heal
+Plaguefall	Domina Venomblade	Ring	Finger	157	Arachnid Cipher Ring	NA	Critical Strike	71	Haste	53		Dungeon	Dps/Tank/Heal
+Plaguefall	Margrave Stradama	Trinket	Trinket	157	Infinitely Divisible Ooze	Agility/Intellect	Equip				Equip: Your damaging abilities have a chance to conjure a Frothing Pustule to fight by your side, dealing 860 Nature damage to your target.	Dungeon	Dps
+Plaguefall	Margrave Stradama	Mail	Shoulders	157	Plagueborne Shoulderguards	Agility/Intellect	Critical Strike	41	Versatility	34		Dungeon	Dps/Tank/Heal
+Plaguefall	Margrave Stradama	Leather	Hands	157	Gloves of Obscure Rituals	Agility/Intellect	Critical Strike	42	Haste	33		Dungeon	Dps/Tank/Heal
+Plaguefall	Margrave Stradama	Plate	Feet	157	Muckwallow Stompers	Strength/Intellect	Haste	47	Critical Strike	30		Dungeon	Dps/Tank/Heal
+Plaguefall	Margrave Stradama	Sword	One-Hand	157	Poxstorm, Longsword of Pestilence	Agility	Haste	27	Mastery	17	Equip: Your attacks have a high chance to apply Bubbling Pox to nearby enemies, dealing 107 Nature damage over 6 sec.	Dungeon	Dps/Tank/Heal
+Plaguefall	Margrave Stradama	Cloth	Legs	157	Leggings of the Erudite Scholar	Intellect	Versatility	58	Haste	44		Dungeon	Dps/Tank/Heal
+Plaguefall	Margrave Stradama	Cloak	Cloak	157	Blighted Margrave's Cloak	Agility/Strength/Intellect	Versatility	36	Haste	20		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Mail	Head	157	Soulthorn Visage	Agility/Intellect	Mastery	63	Haste	39		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Trinket	Trinket	157	Unbound Changeling	Intellect	Equip				Equip: Your abilities have a chance to grant you 0 Critical Strike, Haste, and Mastery for 12 sec. (depends on food buff)	Dungeon	Dps
+Mists of Tirna	Ingra Maloch	Axe	Two-Hand	157	Drustlord's Greataxe	Strength	Haste	56	Versatility	45		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Plate	Head	157	Wrathbark Greathelm	Strength/Intellect	Haste	60	Mastery	42		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Mail	Waist	157	Clasp of Waning Shadow	Agility/Intellect	Versatility	45	Mastery	30		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Cloth	Shoulders	157	Ingra Maloch's Mantle	Intellect	Critical Strike	44	Versatility	33		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Cloth	Wrist	157	Deathshackle Wristwraps	Intellect	Haste	31	Versatility	25		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Leather	Chest	157	Rainshadow Hauberk	Agility/Intellect	Haste	55	Critical Strike	45		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Ingra Maloch	Mace	One-Hand	157	Scithewood Scepter	Intellect	Mastery	28	Critical Strike	22		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Mistcaller	Plate	Shoulders	157	Prankster's Pauldrons	Strength/Intellect	Mastery	42	Versatility	33		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Mistcaller	Trinket	Trinket	157	Mistcaller Ocarina	Agility	Equip					Dungeon	Dps
+Mists of Tirna	Mistcaller	Neck	Neck	157	Trailspinner Pendant	NA	Mastery	75	Critical Strike	49		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Mistcaller	Cloth	Hands	157	Tricksprite Gloves	Intellect	Haste	47	Critical Strike	30		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Mistcaller	Dagger	One-Hand	157	Tanglewood Thorn	Agility	Haste	26	Versatility	23		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Mistcaller	Mail	Shoulders	157	Wintersnap Shoulderguards	Agility/Intellect	Haste	44	Mastery	31		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Mistcaller	Plate	Hands	157	Fogweaver Gauntlets	Strength/Intellect	Mastery	44	Critical Strike	33		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Mistcaller	Leather	Head	157	Hood of the Hidden Path	Agility/Intellect	Haste	61	Mastery	41		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Cloth	Head	157	Cocoonsilk Cowl	Intellect	Versatility	63	Haste	39		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Axe	One-Hand	157	Axe of the Deadgrove	Strength	Versatility	26	Haste	23		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Staff	Two-Hand	157	Lakali's Spire of Knowledge	Intellect	Versatility	63	Mastery	39		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Plate	Legs	157	Gormshell Greaves	Strength/Intellect	Mastery	56	Haste	45		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Leather	Wrist	157	Bands of the Undergrowth	Agility/Intellect	Critical Strike	33	Versatility	23		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Shield	Off-Hand	157	Acidslough Bulwark	Strength/Intellect	Mastery	30	Haste	20		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Leather	Waist	157	Sapgorger Belt	Agility/Intellect	Haste	45	Versatility	30		Dungeon	Dps/Tank/Heal
+Mists of Tirna	Tred'ova	Mail	Wrist	157	Hiveswarm Bracers	Agility/Intellect	Mastery	33	Versatility	25		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Halkias, the Sin-Stained Goliath	Mail	Feet	157	Shardskin Sabatons	Agility/Intellect	Mastery	44	Critical Strike	33		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Halkias, the Sin-Stained Goliath	Cloth	Chest	157	Sinlight Shroud	Intellect	Critical Strike	61	Haste	41		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Halkias, the Sin-Stained Goliath	Leather	Head	157	Hood of Refracted Shadows	Agility/Intellect	Critical Strike	60	Mastery	42		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Halkias, the Sin-Stained Goliath	Plate	Legs	157	Halkias' Towering Pillars	Strength/Intellect	Versatility	56	Haste	45		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Halkias, the Sin-Stained Goliath	Neck	Neck	157	Sin Stained Pendant	NA	Haste	78	Mastery	46		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Echelon	Cloth	Hands	157	Stonefiend Shaper's Mitts	Intellect	Critical Strike	41	Haste	34		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Echelon	Mail	Chest	157	Soaring Decimator's Hauberk	Agility/Intellect	Mastery	61	Critical Strike	41		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Echelon	Mace	One-Hand	157	Stoneguardian's Morningstar	Agility	Mastery	28	Critical Strike	22		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Echelon	Trinket	Trinket	157	Pulsating Stoneheart	Agility/Strength	Use				Use: Increase your armor by 142 and regenerate 486 health every 2 sec for 12 sec, but you are slowed by 50%. (1 Min, 15 Sec Cooldown)	Dungeon	Tank
+Halls of Atonement	Echelon	Leather	Legs	157	Skyterror's Stonehide Leggings	Agility/Intellect	Mastery	63	Haste	39		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Echelon	Plate	Head	157	Wing Commander's Helmet	Strength/Intellect	Mastery	60	Haste	42		Dungeon	Dps/Tank/Heal
+Halls of Atonement	High Adjudicator Aleez	Off-Hand	Off-Hand	157	Nathrian Tabernacle	Intellect	Versatility	30	Critical Strike	20		Dungeon	Dps/Tank/Heal
+Halls of Atonement	High Adjudicator Aleez	Cloth	Waist	157	Cord of the Dark Word	Intellect	Critical Strike	42	Versatility	33		Dungeon	Dps/Tank/Heal
+Halls of Atonement	High Adjudicator Aleez	Trinket	Trinket	157	Sunblood Amethyst	Agility/Strength/Intellect	Use				Use: Tear the anima from your target dealing 1532 Shadow damage and forming a font of power at your feet increasing your Intellect by 88 for 15 sec. (1 Min, 30 Sec Cooldown)	Dungeon	Dps/Heal
+Halls of Atonement	High Adjudicator Aleez	Mail	Shoulders	157	Mantle of Ephemeral Visages	Agility/Intellect	Mastery	47	Versatility	30		Dungeon	Dps/Tank/Heal
+Halls of Atonement	High Adjudicator Aleez	Leather	Hands	157	Gloves of Haunting Fixation	Agility/Intellect	Versatility	41	Haste	34		Dungeon	Dps/Tank/Heal
+Halls of Atonement	High Adjudicator Aleez	Plate	Chest	157	Breastplate of Otherworldly Influence	Strength/Intellect	Haste	61	Critical Strike	41		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Lord Chamberlain	Plate	Shoulders	157	Pauldrons of Unleashed Pride	Strength/Intellect	Versatility	45	Mastery	30		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Lord Chamberlain	Leather	Waist	157	Waistcord of Dark Devotion	Agility/Intellect	Mastery	41	Versatility	34		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Lord Chamberlain	Ring	Finger	157	Signet of the False Accuser	NA	Mastery	77	Haste	48		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Lord Chamberlain	Staff	Two-Hand	157	Nathrian Ferula	Intellect	Haste	60	Critical Strike	42		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Lord Chamberlain	Mail	Head	157	Nathrian Usurper's Mask	Agility/Intellect	Versatility	63	Haste	39		Dungeon	Dps/Tank/Heal
+Halls of Atonement	Lord Chamberlain	Cloth	Feet	157	Slippers of Leavened Station	Intellect	Haste	42	Critical Strike	33		Dungeon	Dps/Tank/Heal
+De Other Side	Hakkar the Soulflayer	Trinket	Trinket	157	Blood-Spattered Scale	Agility/Strength	Use				Use: Inflict 2153 Shadow damage to all nearby enemies and form a Blood Barrier for 10 sec. The Blood Barrier absorbs 14559 damage and an additional 2080 damage for each enemy struck. (2 Min Cooldown)	Dungeon	Dps/Tank
+De Other Side	Hakkar the Soulflayer	Sword	One-Hand	157	Bloodspiller	Agility	Critical Strike	28	Versatility	22		Dungeon	Dps/Tank/Heal
+De Other Side	Hakkar the Soulflayer	Sword	Two-Hand	157	Zin'khas, Blade of the Fallen God	Strength	Critical Strike	55	Mastery	45		Dungeon	Dps/Tank/Heal
+De Other Side	Hakkar the Soulflayer	Mail	Hands	157	Hakkari Revenant's Grips	Agility/Intellect	Haste	44	Critical Strike	31		Dungeon	Dps/Tank/Heal
+De Other Side	Hakkar the Soulflayer	Cloth	Feet	157	Windscale Moccasins	Intellect	Versatility	47	Critical Strike	30		Dungeon	Dps/Tank/Heal
+De Other Side	Hakkar the Soulflayer	Plate	Waist	157	Girdle of the Soulflayer	Strength/Intellect	Haste	44	Versatility	33		Dungeon	Dps/Tank/Heal
+De Other Side	Hakkar the Soulflayer	Leather	Legs	157	Soulfeather Breeches	Agility/Intellect	Haste	61	Mastery	41		Dungeon	Dps/Tank/Heal
+De Other Side	The Manastorms	Staff	Two-Hand	157	Whizblast Walking Stick	Intellect	Mastery	55	Versatility	45		Dungeon	Dps/Tank/Heal
+De Other Side	The Manastorms	Trinket	Trinket	157	Overwhelming Power Crystal	Strength	Use				Use: Deploy a power crystal which beams arcane energy into you, inflicting 405 Arcane damage over 15 sec and granting 338 Critical Strike. (1 Min, 30 Sec Cooldown)	Dungeon	Dps
+De Other Side	The Manastorms	Leather	Hands	157	Rocket Chicken Handlers	Agility/Intellect	Mastery	45	Critical Strike	30		Dungeon	Dps/Tank/Heal
+De Other Side	The Manastorms	Cloth	Chest	157	Manastorm's Magnificent Threads	Intellect	Versatility	63	Critical Strike	39		Dungeon	Dps/Tank/Heal
+De Other Side	The Manastorms	Plate	Feet	157	Dynamo Doomstompers	Strength/Intellect	Critical Strike	44	Haste	33		Dungeon	Dps/Tank/Heal
+De Other Side	The Manastorms	Mail	Legs	157	Techno-Coil Legguards	Agility/Intellect	Mastery	60	Haste	42		Dungeon	Dps/Tank/Heal
+De Other Side	The Manastorms	Mace	One-Hand	157	Supercollider	Strength	Critical Strike	28	Mastery	22		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Leather	Shoulders	157	Far Traveler's Shoulderpads	Agility/Intellect	Critical Strike	44	Versatility	31		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Cloth	Waist	157	Sash of Exquisite Acquisitions	Intellect	Mastery	45	Versatility	30		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Mail	Feet	157	Spatial Rift Striders	Agility/Intellect	Haste	44	Critical Strike	33		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Crossbow	Ranged	157	Xy Cartel Crossbow	Agility	Mastery	63	Critical Strike	39		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Cloak	Cloak	157	Dealer Xy'exa's Cape	Agility/Strength/Intellect	Mastery	34	Versatility	22		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Staff	Two-Hand	157	Collector's Pulse Staff	Agility	Haste	55	Versatility	45		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Plate	Chest	157	Breastplate of Fatal Contrivances	Strength/Intellect	Critical Strike	56	Haste	45		Dungeon	Dps/Tank/Heal
+De Other Side	Dealer Xy'exa	Trinket	Trinket	157	Inscrutable Quantum Device	Agility/Strength/Intellect	Use				Use: ??? (NYI)	Dungeon	Dps/Tank/Heal
+De Other Side	Mueh'zala	Plate	Wrist	157	Reality-Shatter Vambraces	Strength/Intellect	Critical Strike	31	Versatility	26		Dungeon	Dps/Tank/Heal
+De Other Side	Mueh'zala	Mail	Chest	157	Harness of Twisted Whims	Agility/Intellect	Haste	56	Critical Strike	45		Dungeon	Dps/Tank/Heal
+De Other Side	Mueh'zala	Trinket	Trinket	157	Shadowgrasp Totem	Agility	Use				Use: Drop a Shadowgrasp Totem at your feet for 15 sec that harvests your target, inflicting 415 Shadow damage every second. Each time your target dies while affected by Shadowgrasp Totem, you are healed for 864 and this cooldown is reduced by 15 sec. (2 Min Cooldown)	Dungeon	Dps/Tank
+De Other Side	Mueh'zala	Leather	Feet	157	Primeval Soul's Ankleguards	Agility/Intellect	Mastery	44	Critical Strike	33		Dungeon	Dps/Tank/Heal
+De Other Side	Mueh'zala	Cloth	Legs	157	Mueh'zala's Hexthread Sarong	Intellect	Haste	60	Mastery	42		Dungeon	Dps/Tank/Heal
+De Other Side	Mueh'zala	Ring	Finger	157	Death God's Signet	NA	Haste	78	Mastery	46		Dungeon	Dps/Tank/Heal
+Theater of Pain	An Affront of Challengers	Leather	Chest	157	Vest of Concealed Secrets	Agility/Intellect	Critical Strike	60	Haste	42		Dungeon	Dps/Tank/Heal
+Theater of Pain	An Affront of Challengers	Plate	Legs	157	Galvanized Oxxein Legguards	Strength/Intellect	Haste	56	Mastery	45		Dungeon	Dps/Tank/Heal
+Theater of Pain	An Affront of Challengers	Axe	One-Hand	157	Dessia's Decimating Decapitator	Strength	Critical Strike	55	Mastery	45		Dungeon	Dps/Tank/Heal
+Theater of Pain	An Affront of Challengers	Cloth	Shoulders	157	Plague-Licked Amice	Intellect	Versatility	45	Mastery	30		Dungeon	Dps/Tank/Heal
+Theater of Pain	An Affront of Challengers	Mail	Head	157	Amphitheater Stalker's Hood	Agility/Intellect	Haste	58	Mastery	44		Dungeon	Dps/Tank/Heal
+Theater of Pain	An Affront of Challengers	Ring	Finger	157	Bloodoath Signet	NA	Haste	67	Critical Strike	57		Dungeon	Dps/Tank/Heal
+Theater of Pain	An Affront of Challengers	Trinket	Trinket	157	Vial of Vampiric Essence	Intellect	Use		Mastery	72	Use: Bind a spectral essence to an enemy for 20 sec, causing allied attacks to heal for 30% of damage dealt, up to 4519 total healing.	Dungeon	Heal
+Theater of Pain	Gorechop	Plate	Chest	157	Abdominal Securing Chestguard	Strength/Intellect	Versatility	56	Critical Strike	45		Dungeon	Dps/Tank/Heal
+Theater of Pain	Gorechop	Mail	Hands	157	Grips of Overwhelming Beatings	Agility/Intellect	Critical Strike	44	Haste	33		Dungeon	Dps/Tank/Heal
+Theater of Pain	Gorechop	Cloth	Wrist	157	Contaminated Gauze Wristwraps	Intellect	Critical Strike	33	Versatility	23		Dungeon	Dps/Tank/Heal
+Theater of Pain	Gorechop	Trinket	Trinket	157	Viscera of Coalesced Hatred	Strength	Equip				Equip: Your abilities have a very high chance to lash out with a Hateful Strike, dealing 344 Physical damage to an enemy and healing you for 241. These effects are increased by 100% while you are below 50% health. Requires Level 60	Dungeon	Dps
+Theater of Pain	Gorechop	Ring	Finger	157	Fleshfused Circle	NA	Mastery	78	Critical Strike	46		Dungeon	Dps/Tank/Heal
+Theater of Pain	Xav the Unfallen	Plate	Wrist	157	Pit Fighter's Wristguards	Strength/Intellect	Versatility	33	Mastery	23		Dungeon	Dps/Tank/Heal
+Theater of Pain	Xav the Unfallen	Mace	One-Hand	157	Gorebound Predator's Gavel	Agility	Versatility	26	Haste	23		Dungeon	Dps/Tank/Heal
+Theater of Pain	Xav the Unfallen	Dagger	One-Hand	157	Fleshcrafter's Knife	Intellect	Haste	28	Versatility	22		Dungeon	Dps/Tank/Heal
+Theater of Pain	Xav the Unfallen	Leather	Legs	157	Fearless Challenger's Leggings	Agility/Intellect	Critical Strike	63	Mastery	39		Dungeon	Dps/Tank/Heal
+Theater of Pain	Xav the Unfallen	Polearm	Two-Hand	157	Xav's Pike of Authority	Agility	Versatility	63	Haste	39		Dungeon	Dps/Tank/Heal
+Theater of Pain	Xav the Unfallen	Mail	Chest	157	Triumphant Combatant's Chainmail	Agility/Intellect	Critical Strike	61	Haste	41		Dungeon	Dps/Tank/Heal
+Theater of Pain	Xav the Unfallen	Axe	One-Hand	157	Gorestained Cleaver	Strength	Mastery	28	Critical Strike	22		Dungeon	Dps/Tank/Heal
+Theater of Pain	Kul'tharok	Cloth	Chest	157	Soulsewn Vestments	Intellect	Mastery	63	Critical Strike	39		Dungeon	Dps/Tank/Heal
+Theater of Pain	Kul'tharok	Ring	Finger	157	Ritual Bone Band	NA	Versatility	77	Mastery	48		Dungeon	Dps/Tank/Heal
+Theater of Pain	Kul'tharok	Trinket	Trinket	157	Soulletting Ruby	Intellect	Use				Use: Draw out a piece of the target's soul, decreasing their movement speed by 30% until the soul reaches you. The soul instantly heals you for 1446, and grants you up to 685 Critical Strike for 16 sec. You gain more Critical Strike from lower health targets. (2 Min Cooldown)	Dungeon	Dps/Heal
+Theater of Pain	Kul'tharok	Leather	Waist	157	Girdle of Shattered Dreams	Agility/Intellect	Critical Strike	45	Versatility	30		Dungeon	Dps/Tank/Heal
+Theater of Pain	Kul'tharok	Mail	Feet	157	Boots of Shuddering Matter	Agility/Intellect	Critical Strike	44	Haste	31		Dungeon	Dps/Tank/Heal
+Theater of Pain	Mordretha, the Endless Empress	Plate	Shoulders	157	Unyielding Combatant's Pauldrons	Strength/Intellect	Haste	47	Mastery	30		Dungeon	Dps/Tank/Heal
+Theater of Pain	Mordretha, the Endless Empress	Ring	Finger	157	Ring of Perpetual Conflict	NA	Critical Strike	79	Mastery	49		Dungeon	Dps/Tank/Heal
+Theater of Pain	Mordretha, the Endless Empress	Off-Hand	Off-Hand	157	Deathwalker's Promise	Intellect	Haste	30	Versatility	20		Dungeon	Dps/Tank/Heal
+Theater of Pain	Mordretha, the Endless Empress	Cloth	Waist	157	Fallen Empress' Cord	Intellect	Versatility	42	Mastery	33		Dungeon	Dps/Tank/Heal
+Theater of Pain	Mordretha, the Endless Empress	Trinket	Trinket	157	Grim Codex	Agility/Strength	Use				Use: Conjure a Spectral Scythe, dealing 3125 Shadow damage to your target and 447 Shadow damage in a 15 yd cone to enemies behind your target. (1 Min, 30 Sec Cooldown)	Dungeon	Dps/Tank
+Theater of Pain	Mordretha, the Endless Empress	Shield	Off-Hand	157	Barricade of the Endless Empire	Intellect	Haste	30	Critical Strike	20		Dungeon	Dps/Tank/Heal
+Theater of Pain	Mordretha, the Endless Empress	Leather	Feet	157	Vanquished Usurper's Footpads	Agility/Intellect	Haste	41	Critical Strike	34		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Kin-Tara	Neck	Neck	157	Azure-Venom Choker	NA	Critical Strike	77	Versatility	48		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Kin-Tara	Staff	Two-Hand	157	Quarterstaff of Discordant Ethic	Agility	Critical Strike	61	Mastery	41		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Kin-Tara	Plate	Feet	157	Warboots of Ruthless Conviction	Strength/Intellect	Mastery	47	Critical Strike	30		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Kin-Tara	Mail	Chest	157	Forsworn Stalker's Hauberk	Agility/Intellect	Versatility	55	Critical Strike	45		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Kin-Tara	Leather	Hands	157	Winged Hunters' Gloves	Agility/Intellect	Haste	42	Critical Strike	33		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Kin-Tara	Cloth	Waist	157	Kin-Tara's Baleful Cord	Intellect	Haste	44	Versatility	33		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Ventunax	Trinket	Trinket	157	Overcharged Anima Battery	Agility	Use				Use: Gain 264 Haste and 84 Speed for 16 sec. (1 Min, 30 Sec Cooldown)	Dungeon	Dps/Tank
+Spires of Ascension	Ventunax	Leather	Waist	157	Shadowhirl Waistwrap	Agility/Intellect	Versatility	44	Mastery	33		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Ventunax	Cloth	Feet	157	Dark Stride Footwraps	Intellect	Critical Strike	44	Haste	31		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Ventunax	Plate	Hands	157	Distorted Construct's Gauntlets	Strength/Intellect	Haste	41	Critical Strike	34		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Ventunax	Axe	One-Hand	157	Penitent Edge	Agility	Critical Strike	31	Mastery	18		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Ventunax	Mail	Waist	157	Dark Praetorian's Clasp	Agility/Intellect	Mastery	42	Versatility	33		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Oryphrion	Trinket	Trinket	157	Anima Field Emitter	Strength	Equip				Equip: Your attacks have a high chance to create an Anima Field at your location for 8 sec. Standing within the field grants you 193 Haste.	Dungeon	Dps
+Spires of Ascension	Oryphrion	Leather	Head	157	Vicious Surge Faceguard	Agility/Intellect	Versatility	60	Haste	42		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Oryphrion	Plate	Wrist	157	Thunderous Echo Vambraces	Strength/Intellect	Mastery	31	Versatility	25		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Oryphrion	Mail	Hands	157	Absonant Construct's Handguards	Agility/Intellect	Versatility	44	Haste	33		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Oryphrion	Cloth	Legs	157	Purge Protocol Legwraps	Intellect	Mastery	61	Haste	41		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Oryphrion	Trinket	Trinket	157	Empyreal Ordnance	Intellect	Mastery	66	Use		Use: Fire 5 Empyreal Ordnance at up to 5 targets. Targets suffer [236 * 6 * (1 + Versatility)] Arcane damage over 10 sec for each ordnance that hits them. As the ordnance expires on the target they return, each granting 109 Intellect for 15 sec. (3 Min Cooldown) Requires Level 60	Dungeon	Dps/Heal
+Spires of Ascension	Oryphrion	Gun	Ranged	157	The Philosopher	Agility	Critical Strike	55	Haste	45		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Devos, Paragon of Doubt	Polearm	Two-Hand	157	Devos' Cacophonous Poleaxe	Agility	Mastery	55	Versatility	45		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Devos, Paragon of Doubt	Cloak	Cloak	157	Drape of Twisted Loyalties	Agility/Strength/Intellect	Haste	36	Critical Strike	20		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Devos, Paragon of Doubt	Plate	Chest	157	Breastplate of Brutal Dissonance	Strength/Intellect	Mastery	56	Critical Strike	45		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Devos, Paragon of Doubt	Cloth	Chest	157	Sinister Requiem Vestments	Intellect	Haste	61	Critical Strike	41		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Devos, Paragon of Doubt	Trinket	Trinket	157	Boon of the Archon	Intellect	Equip				Equip: Your healing spells have a low chance to create 4 Fragments of Life near your location for 10 sec. Allies who collect a Fragment of Life are healed for 333, and grant 47 Versatility to your party for 10 sec.	Dungeon	Heal
+Spires of Ascension	Devos, Paragon of Doubt	Mail	Wrist	157	Fallen Paragon's Armguards	Agility/Intellect	Haste	33	Versatility	25		Dungeon	Dps/Tank/Heal
+Spires of Ascension	Devos, Paragon of Doubt	Leather	Legs	157	Abyssal Disharmony Breeches	Agility/Intellect	Versatility	60	Haste	42		Dungeon	Dps/Tank/Heal
+Castle Nathria	Shriekwing	Leather	Legs	200	Chiropteran Leggings	Agility/Intellect	Critical Strike	52	Mastery	60		Raid	Dps/Tank/Heal
+Castle Nathria	Shriekwing	Cloak	Cloak	200	Cowled Batwing Cloak	Agility/Strength/Intellect	Versatility	34	Mastery	28		Raid	Dps/Tank/Heal
+Castle Nathria	Shriekwing	Mail	Waist	200	Double-Chained Utility Belt	Agility/Intellect	Versatility	43	Mastery	40		Raid	Dps/Tank/Heal
+Castle Nathria	Shriekwing	Plate	Feet	200	Errant Crusader's Greaves	Strength/Intellect	Haste	43	Mastery	40		Raid	Dps/Tank/Heal
+Castle Nathria	Shriekwing	Cloth	Feet	200	Slippers of the Forgotten Heretic	Intellect	Critical Strike	49	Mastery	36		Raid	Dps/Tank/Heal
+Castle Nathria	Huntsman Altimor	Neck	Neck	200	Charm of Eternal Winter	NA	Haste	67	Mastery	83		Raid	Dps/Tank/Heal
+Castle Nathria	Huntsman Altimor	Cloth	Wrist	200	Grim Pursuant's Maille	Intellect	Critical Strike	27	Versatility	36		Raid	Dps/Tank/Heal
+Castle Nathria	Huntsman Altimor	Plate	Wrist	200	Hellhound Cuffs	Strength/Intellect	Critical Strike	28	Haste	34		Raid	Dps/Tank/Heal
+Castle Nathria	Huntsman Altimor	Mail	Chest	200	Master Huntsman's Bandolier	Agility/Intellect	Critical Strike	55	Mastery	57		Raid	Dps/Tank/Heal
+Castle Nathria	Huntsman Altimor	Leather	Waist	200	Spell-Woven Tourniquet	Agility/Intellect	Critical Strike	45	Versatility	40		Raid	Dps/Tank/Heal
+Castle Nathria	Sun King's Salvation	Mail	Wrist	200	Bangles of Errant Pride	Agility/Intellect	Critical Strike	33	Mastery	30		Raid	Dps/Tank/Heal
+Castle Nathria	Sun King's Salvation	Leather	Hands	200	Bleakwing Assassin's Grips	Agility/Intellect	Haste	40	Versatility	45		Raid	Dps/Tank/Heal
+Castle Nathria	Sun King's Salvation	Cloth	Chest	200	High Torturer's Smock	Intellect	Critical Strike	63	Mastery	49		Raid	Dps/Tank/Heal
+Castle Nathria	Sun King's Salvation	Cloak	Cloak	200	Mantle of Manifest Sins	Agility/Strength/Intellect	Critical Strike	34	Mastery	28		Raid	Dps/Tank/Heal
+Castle Nathria	Sun King's Salvation	Plate	Waist	200	Stoic Guardsman's Belt	Strength/Intellect	Haste	43	Mastery	40		Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Cloth	Waist	200	Cinch of Infinite Tightness	Intellect	Critical Strike	42	Versatility	42		Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Mail	Chest	200	Consumptive Chainmail Carapace	Agility/Intellect	Critical Strike	55	Mastery	57		Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Plate	Legs	200	Endlessly Gluttonous Greaves	Strength/Intellect	Critical Strike	49	Mastery	63		Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Plate	Shoulders	200	Epaulettes of Overwhelming Force	Strength/Intellect	Critical Strike	45	Haste	40		Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Mail	Head	200	Helm of Insatiable Appetite	Agility/Intellect	Haste	67	Mastery	45		Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Leather	Chest	200	Miasma-lacquered Jerkin	Agility/Intellect	Haste	55	Versatility	57		Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Leather	Legs	200	Volatile Shadestitch Legguards	Agility/Intellect	Haste	51	Mastery	61		Raid	Dps/Tank/Heal
+Castle Nathria	Council of Blood	Mail	Hands	200	Castellan's Chainlink Grips	Agility/Intellect	Critical Strike	51	Mastery	34		Raid	Dps/Tank/Heal
+Castle Nathria	Council of Blood	Leather	Chest	200	Corset of the Deft Duelist	Agility/Intellect	Critical Strike	51	Haste	60		Raid	Dps/Tank/Heal
+Castle Nathria	Council of Blood	Cloth	Legs	200	Courtier's Costume Trousers	Intellect	Critical Strike	55	Mastery	57		Raid	Dps/Tank/Heal
+Castle Nathria	Council of Blood	Leather	Feet	200	Enchanted Toe-Tappers	Agility/Intellect	Critical Strike	49	Versatility	34		Raid	Dps/Tank/Heal
+Castle Nathria	Council of Blood	Neck	Neck	200	Noble's Birthstone Pendant	NA	Critical Strike	66	Mastery	84		Raid	Dps/Tank/Heal
+Castle Nathria	Council of Blood	Cloth	Feet	200	Sparkling Glass Slippers	Intellect	Critical Strike	34	Versatility	51		Raid	Dps/Tank/Heal
+Castle Nathria	Council of Blood	Plate	Feet	200	Stoneguard Attendant's Boots	Strength/Intellect	Critical Strike	34	Haste	51		Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Plate	Waist	200	Binding of Warped Desires	Strength/Intellect	Critical Strike	37	Haste	48		Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Cloth	Head	200	Confidant's Favored Cap	Intellect	Haste	48	Mastery	64		Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Leather	Hands	200	Gloves of Phantom Shadows	Agility/Intellect	Critical Strike	36	Mastery	48		Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Mail	Legs	200	Memento-Laden Cuisses	Agility/Intellect	Haste	60	Versatility	52		Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Ring	Finger	200	Ritualist's Treasured Ring	NA	Critical Strike	64	Haste	86		Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Plate	Hands	200	Colossal Plate Gauntlets	Strength/Intellect	Haste	51	Versatility	34		Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Leather	Waist	200	Heedless Pugilist's Harness	Agility/Intellect	Haste	46	Versatility	39		Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Cloth	Hands	200	Impossibly Oversized Mitts	Intellect	Haste	34	Mastery	51		Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Cloth	Legs	200	Leggings of Lethal Reverberations	Intellect	Haste	55	Versatility	57		Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Mail	Waist	200	Load-Bearing Belt	Agility/Intellect	Haste	49	Versatility	34		Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Plate	Chest	200	Rampaging Giant's Chestplate	Strength/Intellect	Critical Strike	49	Haste	63		Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Mail	Feet	200	Stoneclas Stompers	Agility/Intellect	Critical Strike	51	Mastery	34		Raid	Dps/Tank/Heal
+Castle Nathria	Stone Legion Generals	Plate	Legs	200	Ceremonial Parade Legguards	Strength/Intellect	Versatility	63	Mastery	49		Raid	Dps/Tank/Heal
+Castle Nathria	Stone Legion Generals	Cloak	Cloak	200	Crest of the Legionnaire General	Agility/Strength/Intellect	Haste	36	Versatility	27		Raid	Dps/Tank/Heal
+Castle Nathria	Stone Legion Generals	Mail	Hands	200	Oathsworn Soldier's Gauntlets	Agility/Intellect	Critical Strike	42	Haste	42		Raid	Dps/Tank/Heal
+Castle Nathria	Stone Legion Generals	Cloth	Chest	200	Robes of the Cursed Commando	Intellect	Critical Strike	48	Haste	64		Raid	Dps/Tank/Heal
+Castle Nathria	Stone Legion Generals	Leather	Shoulders	200	Wicked Flanker's Gorget	Agility/Intellect	Critical Strike	39	Versatility	46		Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Plate	Head	200	Diadem of Imperious Desire	Strength/Intellect	Haste	46	Mastery	66		Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Ring	Finger	200	Most Regal Signet of Sire Denathrius	NA	Haste	87	Mastery	63		Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Mail	Shoulders	200	Pauldrons of Fatal Finality	Agility/Intellect	Versatility	34	Mastery	49		Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Leather	Head	200	Sadist's Sinister Mask	Agility/Intellect	Haste	63	Mastery	49		Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Cloth	Shoulders	200	Shawl of the Penitent	Intellect	Critical Strike	34	Haste	49		Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius												
+Castle Nathria	Sire Denathrius												
+Castle Nathria	Sire Denathrius												
+Castle Nathria	Sire Denathrius												
+Castle Nathria	Sire Denathrius												
+Castle Nathria	Sire Denathrius												
+Castle Nathria	Sire Denathrius												
+Sanguine Depths	Executor Tarvold	Conduit	Potency		Debilitating Malady	DeathKnightBlood						Dungeon	Tank
+Theater of Pain	Gorechop	Conduit	Potency		Withering Plague	DeathKnightBlood						Dungeon	Tank
+Halls of Atonement	High Adjudicator Aleez	Conduit	Endurance		Blood Bond	DeathKnightBlood						Dungeon	Tank
+Spires of Ascension	Oryphrion	Conduit	Endurance		Meat Shield	DeathKnightBlood						Dungeon	Tank
+Halls of Atonement	Halkias	Conduit	Potency		Accelerated Cold	DeathKnightFrost						Dungeon	Dps
+De Other Side	Mueh'zala	Conduit	Potency		Eradicating Blow	DeathKnightFrost						Dungeon	Dps
+The Necrotic Wake	Bonefang	Conduit	Potency		Biting Cold	DeathKnightFrost						Dungeon	Dps
+The Necrotic Wake	Nalthor the Rimebinder	Conduit	Potency		Unleashed Frenzy	DeathKnightFrost						Dungeon	Dps
+Mists of Tirna Scithe	Tred'ova	Conduit	Potency		Convocation of the Dead	DeathKnightUnholy						Dungeon	Dps
+Theater of Pain	Kul'tharok	Conduit	Potency		Embrace Death	DeathKnightUnholy						Dungeon	Dps
+Plaguefall	Globgrog	Conduit	Potency		Eternal Hunger	DeathKnightUnholy						Dungeon	Dps
+Plaguefall	Domina Venomblade	Conduit	Potency		Lingering Plague	DeathKnightUnholy						Dungeon	Dps
+World Bosses		Conduit	Potency		Proliferation	DeathKnightShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Impenetrable Gloom	DeathKnightShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Brutal Grasp	DeathKnightShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Withering Ground	DeathKnightShared						Raid	Dps/Tank
+Castle Nathria	Kael'thas Sunstrider	Conduit	Endurance		Hardened Bones	DeathKnightShared						Raid	Dps/Tank
+Castle Nathria	General Kaal	Conduit	Endurance		Insatiable Appetite	DeathKnightShared						Raid	Dps/Tank
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Reinforced Shell	DeathKnightShared						Raid	Dps/Tank
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Chilled Resilience	DeathKnightShared						Raid	Dps/Tank
+Castle Nathria	Sire Denathrius	Conduit	Finesse		Fleeting Wind	DeathKnightShared						Raid	Dps/Tank
+Castle Nathria	Hungering Destroyer	Conduit	Finesse		Spirit Drain	DeathKnightShared						Raid	Dps/Tank
+Castle Nathria	Shriekwing	Conduit	Finesse		Unending Grip	DeathKnightShared						Raid	Dps/Tank
+Spires of Ascension	Oryphrion	Conduit	Potency		Soul Furnace	DemonHunterVengeance						Dungeon	Tank
+Halls of Atonement	Lord Chamberlain	Conduit	Endurance		Demon Muzzle	DemonHunterVengeance						Dungeon	Tank
+Sanguine Depths	Executor Tarvold	Conduit	Endurance		Roaring Fire	DemonHunterVengeance						Dungeon	Tank
+Theater of Pain	Xav the Unfallen	Conduit	Potency		Dancing with Fate	DemonHunterHavoc						Dungeon	Dps
+Plaguefall	Domina Venomblade	Conduit	Potency		Demon's Touch	DemonHunterHavoc						Dungeon	Dps
+The Necrotic Wake	Surgeon Stitchflesh	Conduit	Potency		Growing Inferno	DemonHunterHavoc						Dungeon	Dps
+Mists of Tirna Scithe	Tred'ova	Conduit	Potency		Serrated Glaive	DemonHunterHavoc						Dungeon	Dps
+World Bosses		Conduit	Potency		Repeat Decree	DemonHunterShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Increased Scrutiny	DemonHunterShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Brooding Pool	DemonHunterShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Unnatural Mailce	DemonHunterShared						Raid	Dps/Tank
+Castle Nathria	Kael'thas Sunstrider	Conduit	Endurance		Fel Defender	DemonHunterShared						Raid	Dps/Tank
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Shattered Restoration	DemonHunterShared						Raid	Dps/Tank
+Castle Nathria	Sire Denathrius	Conduit	Endurance		Viscous Ink	DemonHunterShared						Raid	Dps/Tank
+Castle Nathria	Shriekwing	Conduit	Finesse		Demonic Parole	DemonHunterShared						Raid	Dps/Tank
+Castle Nathria	General Kaal	Conduit	Finesse		Felfire Haste	DemonHunterShared						Raid	Dps/Tank
+	PVP	Conduit	Finesse		Lost in Darkness	DemonHunterShared						Dungeon	Dps/Tank
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Ravenous Consumption	DemonHunterShared						Raid	Dps/Tank
+Plaguefall	Margrave Stradama	Conduit	Potency		Fury of the Skies	DruidBalance						Dungeon	Dps
+Halls of Atonement	Lord Chamberlain	Conduit	Potency		Precise Alignment	DruidBalance						Dungeon	Dps
+Theater of Pain	Mordretha	Conduit	Potency		Stellar Inspiration	DruidBalance						Dungeon	Dps
+De Other Side	Hakkar the Soulflayer	Conduit	Potency		Umbral Intensity	DruidBalance						Dungeon	Dps
+Spires of Ascension	Azules	Conduit	Potency		Carnivorous Instinct	DruidFeral						Dungeon	Dps
+The Necrotic Wake	Bonefang	Conduit	Potency		Incessant Hunter	DruidFeral						Dungeon	Dps
+The Necrotic Wake	Blightbone	Conduit	Potency		Sudden Ambush	DruidFeral						Dungeon	Dps
+Sanguine Depths	Kryxis the Voracious	Conduit	Potency		Taste for Blood	DruidFeral						Dungeon	Dps
+Mists of Tirna Scithe	Tred'ova	Conduit	Potency		Savage Combatant	DruidGuardian						Dungeon	Tank
+Theater of Pain	Dessia the Decapitator	Conduit	Potency		Unchecked Aggression	DruidGuardian						Dungeon	Tank
+Halls of Atonement	Echelon	Conduit	Endurance		Layered Mane	DruidGuardian						Dungeon	Tank
+Plaguefall	Globgrog	Conduit	Endurance		Well-Honed Instincts	DruidGuardian						Dungeon	Tank
+Sanguine Depths	Grand Proctor Beryllia	Conduit	Potency		Flash of Clarity	DruidRestoration						Dungeon	Heal
+De Other Side	Mueh'zala	Conduit	Potency		Floral Recycling	DruidRestoration						Dungeon	Heal
+Mists of Tirna Scithe	Ingra Maloch	Conduit	Potency		Ready for Anything	DruidRestoration						Dungeon	Heal
+Spires of Ascension	Devos	Conduit	Potency		Unstoppable Growth	DruidRestoration						Dungeon	Heal
+World Bosses		Conduit	Potency		Deep Allegiance	DruidShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Endless Thirst	DruidShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Evolved Swarm	DruidShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Conflux of Elements	DruidShared						Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Tough as Bark	DruidShared						Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Conduit	Endurance		Ursine Vigor	DruidShared						Raid	Dps/Tank/Heal
+Castle Nathria	Castellan Niklaus	Conduit	Endurance		Innate Resolve	DruidShared						Raid	Dps/Tank/Heal
+Castle Nathria	Artificer Xy'mox	Conduit	Finesse		Born Anew	DruidShared						Raid	Dps/Tank/Heal
+Castle Nathria	General Kaal	Conduit	Finesse		Front of the Pack	DruidShared						Raid	Dps/Tank/Heal
+Castle Nathria	Huntsman Altimor	Conduit	Finesse		Born of the Wilds	DruidShared						Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Conduit	Finesse		Tireless Pursuit	DruidShared						Raid	Dps/Tank/Heal
+The Necrotic Wake	Bonefang	Conduit	Potency		Bloodletting	HunterBeastMastery						Dungeon	Dps
+Mists of Tirna Scithe	Tred'ova	Conduit	Potency		Echoing Call	HunterBeastMastery						Dungeon	Dps
+Spires of Ascension	Azules	Conduit	Potency		Ferocious Appetite	HunterBeastMastery						Dungeon	Dps
+De Other Side	Hakkar the Soulflayer	Conduit	Potency		One With the Beast	HunterBeastMastery						Dungeon	Dps
+Spires of Ascension	Devos	Conduit	Potency		Brutal Projectiles	HunterMarksmanship						Dungeon	Dps
+Theater of Pain	Xav the Unfallen	Conduit	Potency		Deadly Chain	HunterMarksmanship						Dungeon	Dps
+Mists of Tirna Scithe	Ingra Maloch	Conduit	Potency		Powerful Precision	HunterMarksmanship						Dungeon	Dps
+Theater of Pain	Mordretha	Conduit	Potency		Sharpshooter's Focus	HunterMarksmanship						Dungeon	Dps
+Sanguine Depths	Kryxis the Voracious	Conduit	Potency		Deadly Tandem	HunterSurvival						Dungeon	Dps
+De Other Side	Dealer Xy'exa	Conduit	Potency		Flame Infusion	HunterSurvival						Dungeon	Dps
+Halls of Atonement	Echelon	Conduit	Potency		Stinging Strike	HunterSurvival						Dungeon	Dps
+Plaguefall	Domina Venomblade	Conduit	Potency		Strength of the Pack	HunterSurvival						Dungeon	Dps
+World Bosses		Conduit	Potency		Enfeebled Mark	HHunterShared						Raid	Dps
+World Bosses		Conduit	Potency		Empowered Release	HHunterShared						Raid	Dps
+World Bosses		Conduit	Potency		Necrotic Barrage	HHunterShared						Raid	Dps
+World Bosses		Conduit	Potency		Spirit Attunement	HHunterShared						Raid	Dps
+Castle Nathria	General Kaal	Conduit	Endurance		Harmony of the Tortollan	HHunterShared						Raid	Dps
+Castle Nathria	Artificer Xy'mox	Conduit	Endurance		Markman's Advantage	HHunterShared						Raid	Dps
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Rejuvenating Wind	HHunterShared						Raid	Dps
+[zone]	[npc]	Conduit	Endurance		Resilience of the Hunter	HHunterShared						Dungeon	Dps
+Castle Nathria	Sire Denathrius	Conduit	Finesse		Ambuscade	HHunterShared						Raid	Dps
+Castle Nathria	Kael'thas Sunstrider	Conduit	Finesse		Cheetah's Vigor	HHunterShared						Raid	Dps
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Reversal of Fortune	HHunterShared						Raid	Dps
+Castle Nathria	Huntsman Altimor	Conduit	Finesse		Tactical Retreat	HHunterShared						Raid	Dps
+De Other Side	Millificent Manastorm	Conduit	Potency		Arcane Prodigy	MageArcane						Dungeon	Dps
+The Necrotic Wake	Surgeon Stitchflesh	Conduit	Potency		Artifice of the Archmage	MageArcane						Dungeon	Dps
+Mists of Tirna Scithe	Mistcaller	Conduit	Potency		Magi's Brand	MageArcane						Dungeon	Dps
+Theater of Pain	Mordretha	Conduit	Potency		Nether Precision	MageArcane						Dungeon	Dps
+Theater of Pain	Dessia the Decapitator	Conduit	Potency		Controlled Destruction	MageFire						Dungeon	Dps
+Halls of Atonement	Halkias	Conduit	Potency		Flame Accretion	MageFire						Dungeon	Dps
+Plaguefall	Margrave Stradama	Conduit	Potency		Infernal Cascade	MageFire						Dungeon	Dps
+Sanguine Depths	Grand Proctor Beryllia	Conduit	Potency		Master Flame	MageFire						Dungeon	Dps
+Halls of Atonement	Lord Chamberlain	Conduit	Potency		Ice Bite	MageFrost						Dungeon	Dps
+Plaguefall	Doctor Ickus	Conduit	Potency		Icy Propulsion	MageFrost						Dungeon	Dps
+Spires of Ascension	Ventunax	Conduit	Potency		Shivering Core	MageFrost						Dungeon	Dps
+The Necrotic Wake	Nalthor the Rimebinder	Conduit	Potency		Unrelenting Cold	MageFrost						Dungeon	Dps
+World Bosses		Conduit	Potency		Ire of the Ascended	MageShared						Raid	Dps
+World Bosses		Conduit	Potency		Siphoned Malice	MageShared						Raid	Dps
+World Bosses		Conduit	Potency		Gift of the Lich	MageShared						Raid	Dps
+World Bosses		Conduit	Potency		Discipline of the Grove	MageShared						Raid	Dps
+Castle Nathria	Hungering Destroyer	Conduit	Endurance		Cryo-Freeze	MageShared						Raid	Dps
+Castle Nathria	Sludgefist	Conduit	Endurance		Diverted Energy	MageShared						Raid	Dps
+Castle Nathria	Artificer Xy'mox	Conduit	Endurance		Tempest Barrier	MageShared						Raid	Dps
+Castle Nathria	General Kaal	Conduit	Finesse		Flow of Time	MageShared						Raid	Dps
+Castle Nathria	Sire Denathrius	Conduit	Finesse		Incantation of Swiftness	MageShared						Raid	Dps
+Castle Nathria	Lady Inerva Darkvein	Conduit	Finesse		Grounding Surge	MageShared						Raid	Dps
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Winter's Protection	MageShared						Raid	Dps
+The Necrotic Wake	Surgeon Stitchflesh	Conduit	Potency		Scalding Brew	MonkBrewmaster						Dungeon	Tank
+Sanguine Depths	High Adjudicator Aleez	Conduit	Potency		Walk with the Ox	MonkBrewmaster						Dungeon	Tank
+Theater of Pain	Dessia the Decapitator	Conduit	Endurance		Celestial Effervescence	MonkBrewmaster						Dungeon	Tank
+Sanguine Depths	Kryxis the Voracious	Conduit	Endurance		Evasive Stride	MonkBrewmaster						Dungeon	Tank
+Plaguefall	Doctor Ickus	Conduit	Potency		Jade Bond	MonkMistweaver						Dungeon	Heal
+De Other Side	Hakkar the Soulflayer	Conduit	Potency		Nourishing Chi	MonkMistweaver						Dungeon	Heal
+Halls of Atonement	High Adjudicator Aleez	Conduit	Potency		Resplendent Mist	MonkMistweaver						Dungeon	Heal
+The Necrotic Wake	Blightbone	Conduit	Potency		Rising Sun Revival	MonkMistweaver						Dungeon	Heal
+Spires of Ascension	Ventunax	Conduit	Potency		Calculated Strikes	MonkWindwalker						Dungeon	Dps
+Mists of Tirna Scithe	Mistcaller	Conduit	Potency		Coordinated Offensive	MonkWindwalker						Dungeon	Dps
+De Other Side	Mueh'zala	Conduit	Potency		Inner Fury	MonkWindwalker						Dungeon	Dps
+Spires of Ascension	Devos	Conduit	Potency		Xuen's Bond	MonkWindwalker						Dungeon	Dps
+World Bosses		Conduit	Potency		Strike with Clarity	MonkShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Imbued Reflections	MonkShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Bone Marrow Hops	MonkShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Way of the Fae	MonkShared						Raid	Dps/Tank/Heal
+Castle Nathria	General Kaal	Conduit	Endurance		Fortifying Ingredients	MonkShared						Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Grounding Breath	MonkShared						Raid	Dps/Tank/Heal
+Castle Nathria	Sludgefist	Conduit	Endurance		Harm Denial	MonkShared						Raid	Dps/Tank/Heal
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Dizzying Tumble	MonkShared						Raid	Dps/Tank/Heal
+Castle Nathria	Huntsman Altimor	Conduit	Finesse		Lingering Numbness	MonkShared						Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Conduit	Finesse		Swift Transference	MonkShared						Raid	Dps/Tank/Heal
+Castle Nathria	Hungering Destroyer	Conduit	Finesse		Tumbling Technique	MonkShared						Raid	Dps/Tank/Heal
+Mists of Tirna Scithe	Ingra Maloch	Conduit	Potency		Enkindled Spirit	PaladinHoly						Dungeon	Heal
+Spires of Ascension	Devos	Conduit	Potency		Focused Light	PaladinHoly						Dungeon	Heal
+The Necrotic Wake	Nalthor the Rimebinder	Conduit	Potency		Resplendent Light	PaladinHoly						Dungeon	Heal
+Halls of Atonement	High Adjudicator Aleez	Conduit	Potency		Untempered Dedication	PaladinHoly						Dungeon	Heal
+Castle Nathria	General Kaal	Conduit	Potency		Punish the Guilty	PaladinProtection						Raid	Tank
+Halls of Atonement	Halkias	Conduit	Potency		Vengeful Shock	PaladinProtection						Dungeon	Tank
+De Other Side	Mueh'zala	Conduit	Endurance		Resolute Defender	PaladinProtection						Dungeon	Tank
+Spires of Ascension	Oryphrion	Conduit	Endurance		Royal Decree	PaladinProtection						Dungeon	Tank
+Spires of Ascension	Ventunax	Conduit	Potency		Expurgation	PaladinRetribution						Dungeon	Dps
+Theater of Pain	Xav the Unfallen	Conduit	Potency		Templar's Vindication	PaladinRetribution						Dungeon	Dps
+Plaguefall	Globgrog	Conduit	Potency		Truth's Wake	PaladinRetribution						Dungeon	Dps
+Sanguine Depths	Grand Proctor Beryllia	Conduit	Potency		Virtuous Command	PaladinRetribution						Dungeon	Dps
+World Bosses		Conduit	Potency		Ringing Clarity	PaladinShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Hallowed Discernment	PaladinShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		Righteous Might	PaladinShared						Raid	Dps/Tank/Heal
+World Bosses		Conduit	Potency		The Long Summer	PaladinShared						Raid	Dps/Tank/Heal
+Castle Nathria	General Kaal	Conduit	Endurance		Divine Call	PaladinShared						Raid	Dps/Tank/Heal
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Golden Path	PaladinShared						Raid	Dps/Tank/Heal
+Castle Nathria	Kael'thas Sunstrider	Conduit	Endurance		Shielding Words	PaladinShared						Raid	Dps/Tank/Heal
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Echoing Blessings	PaladinShared						Raid	Dps/Tank/Heal
+Castle Nathria	Sire Denathrius	Conduit	Finesse		Light's Barding	PaladinShared						Raid	Dps/Tank/Heal
+[zone]	[npc]	Conduit	Finesse		Stalwart as a Crusader	PaladinShared						Dungeon	Dps/Tank/Heal
+Theater of Pain	Kul'tharok	Conduit	Finesse		Wrench Evil	PaladinShared						Dungeon	Dps/Tank/Heal
+Halls of Atonement	Halkias	Conduit	Potency		Exaltation	PriestDiscipline						Dungeon	Heal
+Mists of Tirna Scithe	Ingra Maloch	Conduit	Potency		Pain Transformation	PriestDiscipline						Dungeon	Heal
+The Necrotic Wake	Nalthor the Rimebinder	Conduit	Potency		Shining Radiance	PriestDiscipline						Dungeon	Heal
+Halls of Atonement	High Adjudicator Aleez	Conduit	Potency		Swift Penitence	PriestDiscipline						Dungeon	Heal
+Sanguine Depths	Executor Tarvold	Conduit	Potency		Focused Mending	PriestHoly						Dungeon	Heal
+Spires of Ascension	Devos	Conduit	Potency		Holy Oration	PriestHoly						Dungeon	Heal
+Sanguine Depths	Grand Proctor Beryllia	Conduit	Potency		Lasting Spirit	PriestHoly						Dungeon	Heal
+Halls of Atonement	Lord Chamberlain	Conduit	Potency		Resonant Words	PriestHoly						Dungeon	Heal
+Plaguefall	Doctor Ickus	Conduit	Potency		Dissonant Echoes	PriestShadow						Dungeon	Dps
+Theater of Pain	Mordretha	Conduit	Potency		Haunting Apparitions	PriestShadow						Dungeon	Dps
+De Other Side	Mueh'zala	Conduit	Potency		Mind Devourer	PriestShadow						Dungeon	Dps
+Plaguefall	Margrave Stradama	Conduit	Potency		Rabid Shadows	PriestShadow						Dungeon	Dps
+World Bosses		Conduit	Potency		Courageous Ascension	PriestShared						Raid	Dps/Heal
+World Bosses		Conduit	Potency		Shattered Perceptions	PriestShared						Raid	Dps/Heal
+World Bosses		Conduit	Potency		Festering Transfusion	PriestShared						Raid	Dps/Heal
+World Bosses		Conduit	Potency		Fae Fermata	PriestShared						Raid	Dps/Heal
+Castle Nathria	General Kaal	Conduit	Endurance		Charitable Soul	PriestShared						Raid	Dps/Heal
+Castle Nathria	Sire Denathrius	Conduit	Endurance		Light's Inspiration	PriestShared						Raid	Dps/Heal
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Translucent Image	PriestShared						Raid	Dps/Heal
+Castle Nathria	Artificer Xy'mox	Conduit	Finesse		Clear Mind	PriestShared						Raid	Dps/Heal
+Castle Nathria	Shriekwing	Conduit	Finesse		Mental Recovery	PriestShared						Raid	Dps/Heal
+Castle Nathria	Hungering Destroyer	Conduit	Finesse		Move with Grace	PriestShared						Raid	Dps/Heal
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Power Unto Others	PriestShared						Raid	Dps/Heal
+Plaguefall	Globgrog	Conduit	Potency		Lethal Poisons	RogueAssassination						Dungeon	Dps
+The Necrotic Wake	Blightbone	Conduit	Potency		Maim, Mangle	RogueAssassination						Dungeon	Dps
+Theater of Pain	Dessia the Decapitator	Conduit	Potency		Poisoned Katar	RogueAssassination						Dungeon	Dps
+De Other Side	Hakkar the Soulflayer	Conduit	Potency		Well-Placed Steel	RogueAssassination						Dungeon	Dps
+Spires of Ascension	Ventunax	Conduit	Potency		Ambidexterity	RogueOutlaw						Dungeon	Dps
+Theater of Pain	Gorechop	Conduit	Potency		Count the Odds	RogueOutlaw						Dungeon	Dps
+De Other Side	Dealer Xy'exa	Conduit	Potency		Sleight of Hand	RogueOutlaw						Dungeon	Dps
+Castle Nathria	General Kaal	Conduit	Potency		Triple Threat	RogueOutlaw						Raid	Dps
+Halls of Atonement	Echelon	Conduit	Potency		Deeper Daggers	RogueSubtlety						Dungeon	Dps
+Mists of Tirna Scithe	Mistcaller	Conduit	Potency		Perforated Veins	RogueSubtlety						Dungeon	Dps
+The Necrotic Wake	Surgeon Stitchflesh	Conduit	Potency		Planned Execution	RogueSubtlety						Dungeon	Dps
+Spires of Ascension	Azules	Conduit	Potency		Stiletto Staccato	RogueSubtlety						Dungeon	Dps
+World Bosses		Conduit	Potency		Reverberation	RogueShared						Raid	Dps
+World Bosses		Conduit	Potency		Slaughter Scars	RogueShared						Raid	Dps
+World Bosses		Conduit	Potency		Sudden Fractures	RogueShared						Raid	Dps
+World Bosses		Conduit	Potency		Septic Shock	RogueShared						Raid	Dps
+Castle Nathria	Hungering Destroyer	Conduit	Endurance		Cloaked in Shadows	RogueShared						Raid	Dps
+Castle Nathria	Castellan Niklaus	Conduit	Endurance		Nimble Fingers	RogueShared						Raid	Dps
+Castle Nathria	General Kaal	Conduit	Endurance		Recuperator	RogueShared						Raid	Dps
+Castle Nathria	Sire Denathrius	Conduit	Finesse		Fade to Nothing	RogueShared						Raid	Dps
+Castle Nathria	Lady Inerva Darkvein	Conduit	Finesse		Prepared for All	RogueShared						Raid	Dps
+Castle Nathria	Sludgefist	Conduit	Finesse		Quick Decisions	RogueShared						Raid	Dps
+Castle Nathria	Huntsman Altimor	Conduit	Finesse		Rushed Setup	RogueShared						Raid	Dps
+Theater of Pain	Kul'tharok	Conduit	Potency		Call of Flame	ShamanElemental						Dungeon	Dps
+Plaguefall	Doctor Ickus	Conduit	Potency		High Voltage	ShamanElemental						Dungeon	Dps
+Castle Nathria	General Kaal	Conduit	Potency		Pyroclastic Shock	ShamanElemental						Raid	Dps
+Halls of Atonement	Echelon	Conduit	Potency		Shake the Foundations	ShamanElemental						Dungeon	Dps
+The Necrotic Wake	Nalthor the Rimebinder	Conduit	Potency		Chilled to the Core	ShamanEnhancement						Dungeon	Dps
+Spires of Ascension	Devos	Conduit	Potency		Focused Lightning	ShamanEnhancement						Dungeon	Dps
+Sanguine Depths	Grand Proctor Beryllia	Conduit	Potency		Magma Fist	ShamanEnhancement						Dungeon	Dps
+De Other Side	Hakkar the Soulflayer	Conduit	Potency		Unruly Winds	ShamanEnhancement						Dungeon	Dps
+Mists of Tirna Scithe	Tred'ova	Conduit	Potency		Embrace of Earth	ShamanRestoration						Dungeon	Heal
+De Other Side	Mueh'zala	Conduit	Potency		Heavy Rainfall	ShamanRestoration						Dungeon	Heal
+Spires of Ascension	Azules	Conduit	Potency		Nature's Reach	ShamanRestoration						Dungeon	Heal
+Mists of Tirna Scithe	Ingra Maloch	Conduit	Potency		Swirling Currents	ShamanRestoration						Dungeon	Heal
+World Bosses		Conduit	Potency		Elysian Dirge	ShamanShared						Raid	Dps/Heal
+World Bosses		Conduit	Potency		Lavish Harvest	ShamanShared						Raid	Dps/Heal
+World Bosses		Conduit	Potency		Tumbling Waves	ShamanShared						Raid	Dps/Heal
+World Bosses		Conduit	Potency		Essential Extraction	ShamanShared						Raid	Dps/Heal
+Castle Nathria	Sire Denathrius	Conduit	Endurance		Astral Protection	ShamanShared						Raid	Dps/Heal
+Castle Nathria	Castellan Niklaus	Conduit	Endurance		Refreshing Waters	ShamanShared						Raid	Dps/Heal
+Castle Nathria	Kael'thas Sunstrider	Conduit	Endurance		Vital Accretion	ShamanShared						Raid	Dps/Heal
+Castle Nathria	Huntsman Altimor	Conduit	Finesse		Crippling Hex	ShamanShared						Raid	Dps/Heal
+Castle Nathria	Lady Inerva Darkvein	Conduit	Finesse		Spiritual Resonance	ShamanShared						Raid	Dps/Heal
+Castle Nathria	General Kaal	Conduit	Finesse		Thunderous Paws	ShamanShared						Raid	Dps/Heal
+Castle Nathria	Shriekwing	Conduit	Finesse		Totemic Surge	ShamanShared						Raid	Dps/Heal
+Plaguefall	Margrave Stradama	Conduit	Potency		Cold Embrace	WarlockAffliction						Dungeon	Dps
+Spires of Ascension	Ventunax	Conduit	Potency		Corrupting Leer	WarlockAffliction						Dungeon	Dps
+Theater of Pain	Mordretha	Conduit	Potency		Focused Malignancy	WarlockAffliction						Dungeon	Dps
+De Other Side	Mueh'zala	Conduit	Potency		Rolling Agony	WarlockAffliction						Dungeon	Dps
+De Other Side	Millificent Manastorm	Conduit	Potency		Borne of Blood	WarlockDemonology						Dungeon	Dps
+The Necrotic Wake	Surgeon Stitchflesh	Conduit	Potency		Carnivorous Stalkers	WarlockDemonology						Dungeon	Dps
+Plaguefall	Doctor Ickus	Conduit	Potency		Fel Commando	WarlockDemonology						Dungeon	Dps
+Halls of Atonement	Lord Chamberlain	Conduit	Potency		Tyrant's Soul	WarlockDemonology						Dungeon	Dps
+Sanguine Depths	Executor Tarvold	Conduit	Potency		Ashen Remains	WarlockDestruction						Dungeon	Dps
+Theater of Pain	Kul'tharok	Conduit	Potency		Combusting Engine	WarlockDestruction						Dungeon	Dps
+Mists of Tirna Scithe	Mistcaller	Conduit	Potency		Duplicitous Havoc	WarlockDestruction						Dungeon	Dps
+The Necrotic Wake	Bonefang	Conduit	Potency		Infernal Brand	WarlockDestruction						Dungeon	Dps
+World Bosses		Conduit	Potency		Soul Tithe	WarlockShared						Raid	Dps
+World Bosses		Conduit	Potency		Catastrophic Origin	WarlockShared						Raid	Dps
+World Bosses		Conduit	Potency		Prolonged Decimation	WarlockShared						Raid	Dps
+World Bosses		Conduit	Potency		Exhumed Soul	WarlockShared						Raid	Dps
+Castle Nathria	Artificer Xy'mox	Conduit	Endurance		Accrued Vitality	WarlockShared						Raid	Dps
+Castle Nathria	General Kaal	Conduit	Endurance		Diabolic Bloodstone	WarlockShared						Raid	Dps
+Castle Nathria	Lady Inerva Darkvein	Conduit	Endurance		Resolute Barrier	WarlockShared						Raid	Dps
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Demonic Momentum	WarlockShared						Raid	Dps
+Castle Nathria	Sludgefist	Conduit	Finesse		Fel Celerity	WarlockShared						Raid	Dps
+Castle Nathria	Shriekwing	Conduit	Finesse		Shade of Terror	WarlockShared						Raid	Dps
+Castle Nathria	Sire Denathrius	Conduit	Finesse		Kilrogg's Cunning	WarlockShared						Raid	Dps
+Plaguefall	Doctor Ickus	Conduit	Potency		Ashen Juggernaut	WarriorArms						Dungeon	Dps
+Mists of Tirna Scithe	Tred'ova	Conduit	Potency		Crash the Ramparts	WarriorArms						Dungeon	Dps
+Spires of Ascension	Oryphrion	Conduit	Potency		Merciless Bonegrinder	WarriorArms						Dungeon	Dps
+Spires of Ascension	Azules	Conduit	Potency		Mortal Combo	WarriorArms						Dungeon	Dps
+Plaguefall	Doctor Ickus	Conduit	Potency		Ashen Juggernaut	WarriorFury						Dungeon	Dps
+The Necrotic Wake	Bonefang	Conduit	Potency		Depths of Insanity	WarriorFury						Dungeon	Dps
+Halls of Atonement	Echelon	Conduit	Potency		Hack and Slash	WarriorFury						Dungeon	Dps
+Sanguine Depths	Kryxis the Voracious	Conduit	Potency		Vicious Contempt	WarriorFury						Dungeon	Dps
+Plaguefall	Doctor Ickus	Conduit	Potency		Ashen Juggernaut	WarriorProtection						Dungeon	Tank
+De Other Side	Dealer Xy'exa	Conduit	Potency		Show of Force	WarriorProtection						Dungeon	Tank
+The Necrotic Wake	Blightbone	Conduit	Potency		Unnerving Focus	WarriorProtection						Dungeon	Tank
+Castle Nathria	Kael'thas Sunstrider	Conduit	Endurance		Brutal Vitality	WarriorProtection						Raid	Tank
+Theater of Pain	Gorechop	Conduit	Endurance		Fueled by Violence	WarriorProtection						Dungeon	Tank
+World Bosses		Conduit	Potency		Piercing Verdict	WarriorShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Harrowing Punishment	WarriorShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Veteran's Repute	WarriorShared						Raid	Dps/Tank
+World Bosses		Conduit	Potency		Destructive Reverberations	WarriorShared						Raid	Dps/Tank
+Castle Nathria	Sire Denathrius	Conduit	Endurance		Indelible Victory	WarriorShared						Raid	Dps/Tank
+Castle Nathria	General Kaal	Conduit	Endurance		Stalwart Guardian	WarriorShared						Raid	Dps/Tank
+Castle Nathria	Huntsman Altimor	Conduit	Finesse		Cacophonous Roar	WarriorShared						Raid	Dps/Tank
+Castle Nathria	Shriekwing	Conduit	Finesse		Disturb the Peace	WarriorShared						Raid	Dps/Tank
+Castle Nathria	Castellan Niklaus	Conduit	Finesse		Inspiring Presence	WarriorShared						Raid	Dps/Tank
+Castle Nathria	Lady Inerva Darkvein	Conduit	Finesse		Safeguard	WarriorShared						Raid	Dps/Tank
