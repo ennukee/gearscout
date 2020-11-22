@@ -61,7 +61,7 @@ function App() {
             </Select>
           </FormControl>
           <FormControl className={classes.formControl}>
-            <InputLabel id="armor-type-label">Primary Stat</InputLabel>
+            <InputLabel id="armor-type-label">Armor Type</InputLabel>
             <Select
               labelId="armor-type-label"
               value={armorType}
