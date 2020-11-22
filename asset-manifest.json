@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gearscout/static/css/main.d33b95d1.chunk.css",
-    "main.js": "/gearscout/static/js/main.0411e279.chunk.js",
-    "main.js.map": "/gearscout/static/js/main.0411e279.chunk.js.map",
+    "main.css": "/gearscout/static/css/main.aedf7eb8.chunk.css",
+    "main.js": "/gearscout/static/js/main.af5e515e.chunk.js",
+    "main.js.map": "/gearscout/static/js/main.af5e515e.chunk.js.map",
     "runtime-main.js": "/gearscout/static/js/runtime-main.b4fa0c7e.js",
     "runtime-main.js.map": "/gearscout/static/js/runtime-main.b4fa0c7e.js.map",
-    "static/js/2.65d68ae3.chunk.js": "/gearscout/static/js/2.65d68ae3.chunk.js",
-    "static/js/2.65d68ae3.chunk.js.map": "/gearscout/static/js/2.65d68ae3.chunk.js.map",
+    "static/js/2.c56c3dbb.chunk.js": "/gearscout/static/js/2.c56c3dbb.chunk.js",
+    "static/js/2.c56c3dbb.chunk.js.map": "/gearscout/static/js/2.c56c3dbb.chunk.js.map",
     "index.html": "/gearscout/index.html",
-    "static/css/main.d33b95d1.chunk.css.map": "/gearscout/static/css/main.d33b95d1.chunk.css.map",
-    "static/js/2.65d68ae3.chunk.js.LICENSE.txt": "/gearscout/static/js/2.65d68ae3.chunk.js.LICENSE.txt"
+    "static/css/main.aedf7eb8.chunk.css.map": "/gearscout/static/css/main.aedf7eb8.chunk.css.map",
+    "static/js/2.c56c3dbb.chunk.js.LICENSE.txt": "/gearscout/static/js/2.c56c3dbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b4fa0c7e.js",
-    "static/js/2.65d68ae3.chunk.js",
-    "static/css/main.d33b95d1.chunk.css",
-    "static/js/main.0411e279.chunk.js"
+    "static/js/2.c56c3dbb.chunk.js",
+    "static/css/main.aedf7eb8.chunk.css",
+    "static/js/main.af5e515e.chunk.js"
   ]
 }
